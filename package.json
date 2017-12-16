@@ -4,6 +4,7 @@
   "description": "NextJs Starter Kit",
   "main": "main.js",
   "scripts": {
+    "dev": "next",
     "test": "mocha"
   },
   "author": "Jesus B. Nana <jesus.nana@gmail.com>",
